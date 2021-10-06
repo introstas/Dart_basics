@@ -1,4 +1,4 @@
-import 'lib.dart';
+import 'package:dart_basics/lib.dart';
 
 void main() {
   var task1 = Task1();
